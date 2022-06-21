@@ -1,0 +1,57 @@
+.App{
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+}
+
+.users{
+  width: 80%;
+  display: flex;
+  background-color: aqua;
+  border-radius: 12px;
+  margin: 15px;
+}
+
+.card{
+  
+  padding: 5px;
+  width: 90%;
+  
+}
+
+.articulo{
+  margin-left: 15px;
+}  
+
+.Button{
+  background-color: aqua;
+  border-radius: 12px;
+  width: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  justify-content: space-around;
+  margin-right: 20px;
+}
+
+.formStyles{
+  width: 350px;
+  
+}
+
+#last_name{
+  width: 40%;
+}
+#email{
+  width: 89%;
+}
+#password{
+  width: 89%;
+}
+#birthday{
+  width: 90%;
+}
+.formStyles button{
+  width: 100%;
+}
+
